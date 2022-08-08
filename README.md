@@ -15,3 +15,4 @@
 # Practice
  - [ ] Binary Search on guessing game
  - [ ] Lift game
+ - [ ] Find frequencies of lyrics
