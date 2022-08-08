@@ -1,9 +1,9 @@
 # Learning Note
-- [  ] in & out
-- [  ] if & else
-- [  ] data type
-- [  ] List & Tuple
-- [  ] Set & Dictionary
+- [ ] in & out
+- [ ] if & else
+- [ ] data type
+- [ ] List & Tuple
+- [ ] Set & Dictionary
 
 
 # TODO
