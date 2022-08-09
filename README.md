@@ -17,3 +17,4 @@
  - [ ] 1A2B
  - [ ] Lift game
  - [ ] Find frequencies of lyrics
+ - [ ] grid trading
