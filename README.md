@@ -14,5 +14,6 @@
 
 # Practice
  - [ ] Binary Search on guessing game
+ - [ ] 1A2B
  - [ ] Lift game
  - [ ] Find frequencies of lyrics
